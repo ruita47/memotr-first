@@ -1,0 +1,6 @@
+Host autodl-memotr
+    HostName connect.nmb2.seetacloud.com
+    Port 47325
+    User root
+    ServerAliveInterval 60
+    ServerAliveCountMax 3
